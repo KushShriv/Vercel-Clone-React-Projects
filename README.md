@@ -1,5 +1,11 @@
 # Vercel Clone for React Projects
 
+<div align='center'>
+
+![Project Overview](assets/Summary.png)
+Project Overview
+</div>
+
 The project is a Vercel clone designed to offer website deployment capabilities, consisting of three primary modules:
 
 - __Upload Feature__: Handles the uploading of files and assets necessary for deployment.
